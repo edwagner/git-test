@@ -6,3 +6,4 @@ commit 4
 commit 6
 commit 7
 squashed those
+and this is the 3rd option
