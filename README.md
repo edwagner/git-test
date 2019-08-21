@@ -9,3 +9,5 @@ squashed those
 and this is the 3rd option
 commit before PR
 commit after PR but before approval
+Commit to feature branch
+
